@@ -1,0 +1,54 @@
+$black:                     #000000;
+$black2:                    #353738;
+
+$white:                     #FFFFFF;
+$white2:                    #FFF8F0;
+
+$grey:                      #9DA1A6;
+$grey2:                     #85888C;
+$grey3:                     #4B4D4F;
+
+$blue:                      #5022E2;
+
+$red:                       #FD7D72;
+$red2:                      #FF5748;
+
+$orange:                    #FE9A52;
+
+
+
+// Contextos
+
+$dark:                        $black;
+$dark2:                       $black2;
+
+$light:                       $white;
+$light2:                      $white2;
+
+$infoLight:                   $grey;
+$info:                        $grey2;
+$infoDark:                    $grey3;
+
+$primary:                     $blue;
+
+$secondaryLight:              $red;
+$secondary:                   $red2;
+
+$warning:                     $orange;
+
+// Media Queries
+$xs-max:                      575.98px;
+
+$sm-min:                      576px;
+$sm-max:                      767.98px;
+
+$md-min:                      768px;
+$md-max:                      991.98px;
+
+$lg-min:                      992px;
+$lg-max:                      1199.98px;
+
+$xl-min:                      1200px;
+$xl-max:                      1399.98px;
+
+$xxl-min:                     1400px;
